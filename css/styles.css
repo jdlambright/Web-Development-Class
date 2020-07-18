@@ -16,3 +16,7 @@ hr {
   border-width: 5px;
   width: 5%;
 }
+
+.circular{
+  border-radius: 100%;
+}
