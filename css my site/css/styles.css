@@ -5,6 +5,7 @@ body{
 }
 
 h1{
+  font-size: 562%;
   margin-top: 0;
   font-family: 'sacramento', cursive;
 }
@@ -25,7 +26,7 @@ h3{
 }
 
 .bottom-container{
-  
+
 }
 
 .bottomcloud{
