@@ -1,53 +1,72 @@
-body{
+body {
   margin: 0;
   text-align: center;
-  font-family: 'Merriweather',serif;
+  font-family: 'Merriweather', serif;
 }
 
-h1{
+h1 {
   font-size: 5.62rem;
   line-height: 2;
   margin: 50px auto 0 auto;
   font-family: 'Sacramento', cursive;
   color: #66bfbf;
-  line-height:
 }
-h2{
+
+h2 {
   font-size: 2.5rem;
   font-family: 'Montserrat', sans-serif;
   color: #66bfbf;
   font-weight: normal;
 }
-h3{
+
+h3 {
   font-size: 2.5rem;
   font-family: 'Montserrat', sans-serif;
   color: #11999e;
 }
-span{
+
+span {
   font-style: italic;
 }
-.top-container{
+
+.top-container {
   background-color: #e4f9f5;
   position: relative;
   padding-top: 100px;
 }
 
-.middle-container{
-
+.middle-container {
 }
 
-.bottom-container{
+.bottom-container {}
 
+.skill-row{
+  margin: 100px auto 100px auto;
+  width: 50%;
+  text-align: left;
+  line-height: 2;
 }
 
-.bottomcloud{
+.bottomcloud {
   position: absolute;
   bottom: 300px;
   left: 300px;
 }
 
-.topcloud{
+.topcloud {
   position: absolute;
   top: 50px;
   right: 300px;
+}
+
+.snowboard-img{
+  width: 25%;
+  float:left;
+  margin-right: 30px;
+}
+
+.musicpic{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
 }
