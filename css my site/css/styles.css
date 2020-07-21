@@ -38,7 +38,9 @@ span {
 .middle-container {
 }
 
-.bottom-container {}
+.bottom-container {
+
+}
 
 .skill-row{
   margin: 100px auto 100px auto;
@@ -47,6 +49,11 @@ span {
   line-height: 2;
 }
 
+.biocontent{
+  color: #40514e;
+  width: 50%;
+  margin: 20px auto 20px auto;
+}
 .bottomcloud {
   position: absolute;
   bottom: 300px;
@@ -58,7 +65,9 @@ span {
   top: 50px;
   right: 300px;
 }
-
+.profilepic{
+  width: 25%;
+}
 .snowboard-img{
   width: 25%;
   float:left;
